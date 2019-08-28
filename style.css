@@ -13,14 +13,14 @@ h1{
 	margin: 0 0 10px 0;
 }
 h1 span{
-	 border: 4px dashed #800000;
+	border: 4px dashed #800000;
     padding: 10px;
 
 }
 .img-circle {
     border: 3px solid white;
     border-radius: 100%;
-     display: block;
+    display: block;
     margin: 0 auto;
 
 }
@@ -54,7 +54,7 @@ li {
     font-weight: bold;
 }
 progress{
-	 width: 70%;
+	width: 70%;
     height: 20px;
     color: #3fb6b2;
     background: #efefef;
@@ -101,7 +101,7 @@ form {
     margin-right: 7px;
 }
 #contacts {
-     text-align: center;
+    text-align: center;
 }
 .copyrigth{
     font-size:10;
